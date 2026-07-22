@@ -1,0 +1,4 @@
+dev.localhost {
+  root ./html
+	file_server
+}
